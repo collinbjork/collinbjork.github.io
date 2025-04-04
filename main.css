@@ -1996,8 +1996,21 @@ sup.footnote-ref a {
 		margin: 0 0 2em 0;
 	}
 
+#ch {
+	display: none;
+}
+#ch:checked ~ .transcript {
+display: block;
+}
+#ch:checked ~ label {
+display: none;
+}
+.transcript {
+display: none;
+}
 	label {
 		display: block;
+		cursor: pointer;
 		font-size: 0.9em;
 		font-weight: 400;
 		margin: 0 0 1em 0;
