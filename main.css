@@ -2651,7 +2651,7 @@ sup.footnote-ref a {
 			header.major h2:after {
 				display: block;
 				content: '';
-				width: 4.25em;
+				width: 5.25em;
 				height: 2px;
 				margin: 0.7em 0 1em 0;
 				border-radius: 2px;
