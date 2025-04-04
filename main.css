@@ -2005,6 +2005,61 @@ display: block;
 #ch:checked ~ label {
 display: none;
 }
+#chh {
+	display: none;
+}
+#chh:checked ~ .transcript {
+display: block;
+}
+#chh:checked ~ label {
+display: none;
+}
+#chhh {
+	display: none;
+}
+#chhh:checked ~ .transcript {
+display: block;
+}
+#chhh:checked ~ label {
+display: none;
+}
+#chhhh {
+	display: none;
+}
+#chhhh:checked ~ .transcript {
+display: block;
+}
+#chhhh:checked ~ label {
+display: none;
+}
+#chhhhh {
+	display: none;
+}
+#chhhhh:checked ~ .transcript {
+display: block;
+}
+#chhhhh:checked ~ label {
+display: none;
+}
+#chhhhhh {
+	display: none;
+}
+#chhhhhh:checked ~ .transcript {
+display: block;
+}
+#chhhhhh:checked ~ label {
+display: none;
+}
+#chhhhhhh {
+	display: none;
+}
+#chhhhhhh:checked ~ .transcript {
+display: block;
+}
+#chhhhhhh:checked ~ label {
+display: none;
+}
+
 .transcript {
 display: none;
 }
